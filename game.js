@@ -473,8 +473,6 @@ function gameover(){
         return false;
     }else{
         $("#gameover").css("display","block");
-        // $(document).unbind("up");
-        // $(document).unbind("down");
     }
 }
 
